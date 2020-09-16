@@ -1,6 +1,6 @@
 # Patientor - Frontend
 
-The frontend for the respective [backend](https://github.com/BunnyTheLifeguard/fullstackopen2020/tree/master/Part%209/patientor-backend) of the patientor exercise using [formik](https://formik.org/) for the entry-forms.
+The frontend for the respective [backend](https://github.com/BunnyTheLifeguard/patientor_backend) of the patientor exercise using [formik](https://formik.org/) for the entry-forms.
 <br/>
 
 ### Main view:
